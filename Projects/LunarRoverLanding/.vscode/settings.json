@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\10\\anaconda3\\envs\\UdacitySandbox\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
